@@ -17,3 +17,15 @@
 .content .slider-item .slider-right {float:right;padding-right:30px;margin-top:45px;width:500px;color:#585858;}
 .slider-right p {text-indent:24px;line-height:20px;}
 .slider-right a, .slider-right a:visited {color:#F60;font-weight:bold;}
+
+.text .text-left {float:left;width:530px;padding-left:30px;}
+.text .text-right {float:right;width:530px;padding-right:30px;}
+
+.text-left-title {height:30px;padding-top:10px;}
+.text-left-list {list-style:none;padding:10px 0 0 0;color:#585858;}
+.text-left-list li {line-height:28px;}
+.text-left-list li span{display:inline-block;}
+.text-left-list li span.text-title {width:480px;}
+.text-left-list li span.text-date {width:50px;}
+.text-left-list li span.text-title a{color: #585858;}
+.text-left-list li span.text-title a:visited{color:#483209;}
