@@ -1,7 +1,7 @@
 @charset "utf-8";
 .wrapper .top {height:100px;}
 .wrapper .content {height:420px;position:relative;}
-.wrapper .text {height:220px;}
+.wrapper .text {height:300px;}
 .wrapper .footer {height:100px;color:#585858;text-align:center;}
 
 .wrapper .top .logo {width:216px;height:49px;margin-top:20px;float:left;}
