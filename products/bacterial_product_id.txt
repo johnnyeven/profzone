@@ -7,5 +7,6 @@
 		"net.profzone.bacterial.killer25",
 		"net.profzone.bacterial.killer40",
 		"net.profzone.bacterial.killer60",
+		"net.profzone.bacterial.killer98"
 	]
 }
